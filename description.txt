@@ -1,0 +1,3 @@
+This project aims at brushing up a few concepts of python such as web scraping.
+The project includes an automated map opening script, and an automated facebook opening script
+It also contains an automated rank calculater given a large number of entries for marks.
